@@ -1,0 +1,526 @@
+@media screen and (max-width: 991px) {
+
+
+    .navbar {
+        margin: 0px auto;
+    }
+
+    .fokir-style {
+        width: 25%;
+    }
+
+    /**************** section 2 ****************/
+
+    .hello {
+        width: 80%;
+    }
+
+    .layer0 {
+        position: relative;
+        vertical-align: top;
+    }
+
+    .layer1 {
+        position: none;
+        background-color: transparent;
+        width: 100%;
+    }
+
+    .layer2 {
+        width: 100%;
+        background-color: transparent;
+        position: none;
+    }
+
+    .layer3 img {
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    .layer4 {
+        left: 0;
+        bottom: -11%;
+        right: 0;
+        top: 1;
+    }
+
+    .layer3:hover .layer4 {
+        height: 42vh;
+    }
+
+    .social-icon li {
+        margin-right: 10px;
+    }
+
+    .i-hello {
+        width: 60%;
+        margin-left: 30px;
+    }
+
+    .i-hello p {
+
+        width: 73%;
+    }
+
+    .i-hello li {
+
+        margin: 0px 0px 10px;
+
+    }
+
+    .i-hello li span {
+        font-weight: 400;
+        color: #222;
+    }
+
+    .i-hello hr {
+        width: 80%;
+    }
+
+    .for-li {
+        margin-right: 15px;
+
+    }
+
+    .for-button {
+        margin-top: 10px;
+
+    }
+
+    /**************** section 3 ****************/
+
+    .container div {
+        width: 45%;
+    }
+
+    .container i {
+        font-size: 25px;
+    }
+
+
+    .container div:hover i {
+        font-size: 30px;
+    }
+
+    /**************** section 4 ****************/
+
+
+    .for-button {
+        margin: 50px 0 50px;
+    }
+
+    .for-img {
+
+        width: 75%;
+    }
+
+    .for-img div {
+        margin-bottom: 25px;
+    }
+
+    .layer-1 {
+        width: 44.5%;
+
+    }
+
+    .layer-1:hover .layer-1-black {
+        height: 33vh;
+    }
+
+    .layer-2 {
+        width: 44.5%;
+
+    }
+
+    .layer-2:hover .layer-2-black {
+        height: 33vh;
+    }
+
+    .layer-3 {
+        width: 44.5%;
+
+    }
+
+    .layer-3:hover .layer-3-black {
+        height: 33vh;
+
+    }
+
+    .layer-4 {
+        width: 44.5%;
+
+    }
+
+    .layer-4:hover .layer-4-black {
+        height: 33vh;
+
+    }
+
+    .layer-5 {
+        width: 44.5%;
+
+    }
+
+    .layer-5:hover .layer-5-black {
+        height: 33vh;
+
+    }
+
+    .layer-6 {
+        width: 44.5%;
+    }
+
+    .layer-6:hover .layer-6-black {
+        height: 33vh;
+    }
+
+
+    /**************** section 5 ****************/
+
+
+    /**************** section 6 ****************/
+
+
+    .feedback {
+        width: 70%;
+        margin-top: 50px;
+        padding-top: 50px;
+    }
+
+    .color-feedback {
+        top: -20%;
+    }
+
+    /**************** section 7 ****************/
+
+
+
+
+    .iframes {
+        width: 75%;
+    }
+
+    .iframe-0 {
+        width: 28%;
+    }
+
+    .text-iframe {
+        font-size: 16px;
+    }
+
+    .iframe-0 div h3 {
+        font-size: 18px;
+    }
+
+    .iframe-0 p {
+        font-size: 14px;
+    }
+
+    .iframe-1 {
+        width: 28%;
+    }
+
+    .text-iframe-1 {
+        font-size: 16px;
+    }
+
+    .iframe-1 div h3 {
+        font-size: 18px;
+    }
+
+    .iframe-1 p {
+        font-size: 14px;
+    }
+
+    .iframe-2 {
+        width: 28%;
+    }
+
+    .text-iframe-2 {
+        font-size: 16px;
+    }
+
+    .iframe-2 div h3 {
+        font-size: 18px;
+    }
+
+    .iframe-2 p {
+        font-size: 14px;
+    }
+
+    /**************** section 8 ****************/
+
+
+
+    .for-input {
+        width: 70%;
+    }
+
+    .input-0 {
+        width: 45%;
+
+    }
+
+    .input-1 {
+        width: 45%;
+    }
+
+    .input-2 {
+        width: 95%;
+        margin: 25px auto;
+    }
+
+    .input-3 {
+        width: 95%;
+        margin: 25px auto;
+    }
+
+    .submit-dev {
+        width: 95%;
+    }
+
+    /**************** section 9 ****************/
+
+
+
+
+}
+
+@media screen and (max-width: 767px) {
+
+
+
+
+    .navbar li {
+        display: none;
+    }
+
+    .bars {
+        display: inline-block;
+        font-size: 22px;
+        color: white;
+    }
+
+    .fokir-style {
+        width: 50%;
+    }
+
+    /**************** section 2 ****************/
+
+    .hello {
+        width: 55%;
+    }
+
+    .layer0 {
+        width: 100%;
+    }
+
+    .layer4 {
+        left: 0;
+        bottom: -76%;
+        right: 0;
+        top: 1;
+    }
+
+    .layer3:hover .layer4 {
+        height: 67vh;
+    }
+
+
+    .i-hello {
+        width: 100%;
+        margin-top: 85px;
+        padding-top: 85px;
+    }
+
+    .i-hello p {
+        width: 90%;
+    }
+
+    .for-li li {
+        display: inline-block;
+        width: 50%;
+        margin-top: 15px;
+
+    }
+
+    .for-li1 li {
+        display: inline-block;
+        width: 50%;
+        margin-top: 15px;
+
+    }
+
+    /**************** section 3 ****************/
+
+    .container div {
+        width: 100%;
+
+    }
+
+    .container div p {
+        width: 70%;
+        margin: 0px auto;
+    }
+
+    /**************** section 4 ****************/
+
+
+
+
+    .for-img {
+        width: 65%;
+    }
+
+    .for-img div {
+        margin: 15px auto;
+
+    }
+
+    .layer-1 {
+        width: 90%;
+    }
+
+    .layer-1:hover .layer-1-black {
+        height: 46vh;
+    }
+
+    .layer-2 {
+        width: 90%;
+
+    }
+
+    .layer-2:hover .layer-2-black {
+        height: 46vh;
+    }
+
+    .layer-3 {
+        width: 90%;
+
+    }
+
+    .layer-3:hover .layer-3-black {
+        height: 46vh;
+
+    }
+
+    .layer-4 {
+        width: 90%;
+
+    }
+
+    .layer-4:hover .layer-4-black {
+        height: 46vh;
+
+    }
+
+    .layer-5 {
+        width: 90%;
+
+    }
+
+    .layer-5:hover .layer-5-black {
+        height: 46vh;
+
+    }
+
+    .layer-6 {
+        width: 90%;
+    }
+
+    .layer-6:hover .layer-6-black {
+        height: 46vh;
+    }
+
+
+    /**************** section 5 ****************/
+
+
+    .section5 div {
+        margin: 0px auto;
+        display: block;
+        width: 60%;
+    }
+
+
+    /**************** section 6 ****************/
+
+    .feedback {
+        width: 70%;
+    }
+
+    .img-feedback {
+        width: 25%;
+        margin: 30px auto;
+        text-align: center;
+        position: static;
+        margin-left: 70px;
+    }
+
+    .color-feedback {
+        top: -25%;
+        left: -30%;
+    }
+
+    .text-feedback {
+        width: 90%;
+    }
+
+    /**************** section 7 ****************/
+
+    .iframes {
+        width: 70%;
+    }
+
+    .iframe-0 {
+        width: 90%;
+        margin-bottom: 25px;
+    }
+
+    .iframe-1 {
+        width: 90%;
+        margin-bottom: 25px;
+    }
+
+    .iframe-2 {
+        width: 90%;
+    }
+
+    /**************** section 8 ****************/
+
+
+
+    .for-input {
+        width: 70%;
+    }
+
+    .input-0 {
+        width: 100%;
+        margin: 25px auto;
+    }
+
+    .input-1 {
+        width: 100%;
+        margin: 0px auto;
+
+    }
+
+    .input-2 {
+        width: 100%;
+        margin: 25px auto;
+    }
+
+    .input-3 {
+        width: 100%;
+        margin: 25px auto;
+    }
+
+    .submit-dev {
+        width: 100%;
+    }
+
+    /**************** section 9 ****************/
+
+}
